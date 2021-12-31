@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrSJBauman (Stephen Bauman, PhD)
-- 👀 I’m interested in robotics and internet of things applied to interesting and fun issues around the house or to solving environmental issues.
+- 👀 I’m interested in robotics and internet of things applied to solutions around the house or to solving environmental issues.
 - 🌱 I’m currently learning Arduino and general creative engineering skills.
 - 💞️ I’m looking to collaborate on any and everything where I can learn or help someone else learn.
 - 📫 How to reach me: sjbauman0@gmail.com
